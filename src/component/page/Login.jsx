@@ -6,7 +6,7 @@ export const Login = memo(() => {
     <div className="App">
       <header className="App-header">
         <h1>ログインです</h1>
-        <Link to="/home">go to home</Link>
+        <Link to="/home">ホームへ行く</Link>
       </header>
     </div>
   );
